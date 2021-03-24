@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\codingP\bin\Debug\netcoreapp3.1\codingP.exe
+C:\Users\DELL\source\repos\codingP\bin\Debug\netcoreapp3.1\codingP.deps.json
+C:\Users\DELL\source\repos\codingP\bin\Debug\netcoreapp3.1\codingP.runtimeconfig.json
+C:\Users\DELL\source\repos\codingP\bin\Debug\netcoreapp3.1\codingP.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\codingP\bin\Debug\netcoreapp3.1\codingP.dll
+C:\Users\DELL\source\repos\codingP\bin\Debug\netcoreapp3.1\codingP.pdb
+C:\Users\DELL\source\repos\codingP\obj\Debug\netcoreapp3.1\codingP.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\codingP\obj\Debug\netcoreapp3.1\codingP.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\codingP\obj\Debug\netcoreapp3.1\codingP.AssemblyInfo.cs
+C:\Users\DELL\source\repos\codingP\obj\Debug\netcoreapp3.1\codingP.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\codingP\obj\Debug\netcoreapp3.1\codingP.dll
+C:\Users\DELL\source\repos\codingP\obj\Debug\netcoreapp3.1\codingP.pdb
+C:\Users\DELL\source\repos\codingP\obj\Debug\netcoreapp3.1\codingP.genruntimeconfig.cache
